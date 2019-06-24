@@ -1,9 +1,26 @@
-h1 {
-  color: teal;
+.everything {
+  margin: 12px
 }
 
-p.projects {
+h1 {
+  color: purple;
+}
+
+.lists {
+  font-size: 12pt;
+}
+
+#brain{
+  float:left;
+  max-width: 20%
+}
+
+#hobbies {
+  border-style: solid;
+  border-color: pink;
+  border size: 10px;
   width: 50%;
+  padding: 10px;
 }
 
 @media screen and (max-width: 768px) and (min-width:600px){
