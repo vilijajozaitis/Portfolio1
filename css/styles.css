@@ -1,4 +1,4 @@
-.everything {
+body {
   margin: 12px
 }
 
@@ -6,7 +6,7 @@ h1 {
   color: purple;
 }
 
-.lists {
+.list {
   font-size: 12pt;
 }
 
