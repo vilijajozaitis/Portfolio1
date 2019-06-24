@@ -1,0 +1,20 @@
+h1 {
+  color: teal;
+}
+
+p.projects {
+  width: 50%;
+}
+
+@media screen and (max-width: 768px) and (min-width:600px){
+  body {
+    background-color: black;
+    color: white;
+  }
+}
+
+@media screen and (max-width: 480px) {
+  body {
+    background-color: teal;
+  }
+}
